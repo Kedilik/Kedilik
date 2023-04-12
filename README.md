@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋Hello, my name is Efe Serindik <br>✍️I'm also a blogger, I write articles in the field of technology <br>👨‍💻I have work on Python <br>🗺️I live in Istanbul / Turkey
 
 
